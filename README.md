@@ -40,3 +40,10 @@ Langkah-Langkah Penggunaan Git
 
 9. Membuat Repository Server dengan menggunakan github.com
 
+![image](https://user-images.githubusercontent.com/115475424/196048316-a47902ff-6db7-4168-9b36-b13625e5ce85.png)
+
+
+![image](https://user-images.githubusercontent.com/115475424/196048294-e5b98b14-46f6-470d-932d-261be78544e1.png)
+
+
+
