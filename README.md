@@ -49,6 +49,10 @@ Langkah-Langkah Penggunaan Git
 
 ![image](https://user-images.githubusercontent.com/115475424/196048490-55426b36-0af4-49ea-b356-4ffaacd58b05.png)
 
+11. Untuk mengirim perubahan pada local repository ke server gunakan git push
+
+![image](https://user-images.githubusercontent.com/115475424/196048849-a69b2008-f128-4811-9dca-1917852e9413.png)
+
 
 
 
