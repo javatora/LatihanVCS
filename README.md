@@ -45,5 +45,10 @@ Langkah-Langkah Penggunaan Git
 
 ![image](https://user-images.githubusercontent.com/115475424/196048294-e5b98b14-46f6-470d-932d-261be78544e1.png)
 
+10. Menambahkan Remote Repository
+
+![image](https://user-images.githubusercontent.com/115475424/196048490-55426b36-0af4-49ea-b356-4ffaacd58b05.png)
+
+
 
 
