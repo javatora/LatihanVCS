@@ -60,7 +60,9 @@ Langkah-Langkah Penggunaan Git
 
 13. konfirmasi git push -u origin lokal
 
-![image](https://user-images.githubusercontent.com/115475424/196049931-889b9954-f047-4225-b603-c5f84c97e6c1.png)
+![image](https://user-images.githubusercontent.com/115475424/196049992-2a08a35f-018e-48c6-bd82-770cb14b118b.png)
+
+
 
 
 
