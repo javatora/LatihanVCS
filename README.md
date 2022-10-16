@@ -62,6 +62,13 @@ Langkah-Langkah Penggunaan Git
 
 ![image](https://user-images.githubusercontent.com/115475424/196049992-2a08a35f-018e-48c6-bd82-770cb14b118b.png)
 
+14. Clone Repository untuk meng-copy repository server dengan otomatis membuat satu direktory sesuai dengan nama repository-nya.
+gunakan "git clone[url]
+
+![image](https://user-images.githubusercontent.com/115475424/196050201-86b678d4-e02c-40dc-9db5-4e1b39b37619.png)
+
+
+
 
 
 
