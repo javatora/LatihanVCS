@@ -53,6 +53,15 @@ Langkah-Langkah Penggunaan Git
 
 ![image](https://user-images.githubusercontent.com/115475424/196048849-a69b2008-f128-4811-9dca-1917852e9413.png)
 
+12. Kemudian Log in untuk melanjutkan proses push ke GitHub
+
+![image](https://user-images.githubusercontent.com/115475424/196049417-9615a5a3-97a1-43d2-ac6a-e36ec06ddf6a.png)
+
+
+13. konfirmasi git push -u origin lokal
+
+![image](https://user-images.githubusercontent.com/115475424/196049931-889b9954-f047-4225-b603-c5f84c97e6c1.png)
+
 
 
 
